@@ -1,0 +1,19 @@
+{
+  "data": {
+    "id": "afe9baea-8086-4651-98f1-4e710c76d119",
+    "organisation_id": "4bc3060a-cc0d-4c29-acc4-5834b3c0e09f",
+    "type": "accounts",
+    "attributes": {
+      "country": "GB",
+      "base_currency": "GBP",
+      "bank_id": "5",
+      "bank_id_code": "GBDSC",
+      "customer_id": "234",
+      "bic": "NWBKGB42",
+      "account_classification": "Personal",
+      "joint_account": false,
+      "account_matching_opt_out": false,
+      "secondary_identification": "A1B2C3D4"
+    }
+  }
+}
